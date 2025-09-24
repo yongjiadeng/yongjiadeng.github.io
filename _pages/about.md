@@ -9,8 +9,8 @@ profile:
   image: IMG_5329.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-  <p>Language and Science Program</p>
-  <p>Van Hise Hall, 1168</p>
+    <p>Language and Science Program</p>
+    <p>Van Hise Hall, 1168</p>
     <p>1220 Linden Dr</p>
     <p>Madison, WI 53706 USA</p>
 
