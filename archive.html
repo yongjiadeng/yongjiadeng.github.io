@@ -1,13 +1,20 @@
 ---
-title: "Home"
-layout: default
----
+layout: page
+title: Home
+permalink: /
 
-<main>
-  <header><h1>{{ include.title | default: page.title }}</h1></header>
-  <nav class="smooth">
-    {% for post in site.posts %}
-    <div><time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%Y-%m-%d" }}</time><a href="{{ post.url | relative_url }}">{{ post.title }}</a></div>
-    {% endfor %}
-  </nav>
-</main>
+
+profile:
+  align: right
+  image: IMG_5329.jpg
+  image_circular: false # crops the image to make it circular
+  more_info: >
+    <p>Language and Science Program</p>
+    <p>Van Hise Hall, 1168</p>
+    <p>1220 Linden Dr</p>
+    <p>Madison, WI 53706 USA</p>
+
+
+---
+Hello! My name is Yongjia Deng (邓永嘉, she/her). 
+I am a second-year PhD student from the [Language and Science Program at the University of Wisconsin-Madison](https://langsci.wisc.edu), working with Professor [Jacee Cho](https://langsci.wisc.edu/staff/jacee-cho/). I completed my B.A. in Linguistics with distinction at Purdue University in 2024. Having grown up as a Hakka heritage speaker in southeastern China, I can speak Mandarin Chinese, Hakka, and a little Cantonese.
