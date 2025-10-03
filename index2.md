@@ -5,7 +5,7 @@ permalink: /
 ---
 
 <div style="float: right; margin-left: 20px; margin-bottom: 20px;">
-  <img src="/yongjiadeng.github.io/IMG_5329 2.JPG" alt= "Yongjia Deng" width = "220">  
+  <img src="/IMG_5329 2.jpg" alt= "Yongjia Deng" width = "220">  
 
 
 
