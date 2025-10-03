@@ -18,11 +18,11 @@ show_minimal: false             # remove all clutter
 # Menu                          # for available icons see https://fontawesome.com/v5/icons/
 
 navigation:                     # accepts {file, title, url, icon, sidebaricon}
-  - {file: "archive.html", title: Home, sidebaricon: Home}
+  - {file: "Home", title: Home, sidebaricon: Home}
   - {file: "/yongjiadeng.pdf", title: CV}
-  - {title: Research, file: "/Research.md"}
-  - {title: Teaching, file: "/Teaching.md"}
-  - {title: Contact, file: "/Contact.md"}
+  - {title: Research, file: "Research.md"}
+  - {title: Teaching, file: "Teaching.md"}
+  - {title: Contact, file: "Contact.md"}
 
 external:                       # accepts {file, title, url, icon, sidebaricon}
   - {title: Mail, icon: envelope, url: "mailto:ydeng228@wisc.edu"}
