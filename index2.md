@@ -11,6 +11,12 @@ permalink: /
   <h2>Yongjia Deng</h2>
  <p>Hello! My name is Yongjia Deng (邓永嘉, she/her). </p>  
     
-I am a second-year PhD student from the [Language and Science Program at the University of Wisconsin-Madison](https://langsci.wisc.edu), working with Professor [Jacee Cho](https://langsci.wisc.edu/staff/jacee-cho/). I completed my B.A. in Linguistics with distinction at Purdue University in 2024. Having grown up as a Hakka heritage speaker in southeastern China, I can speak Mandarin Chinese, Hakka, and a little Cantonese.
+<p>
+  I am a second-year PhD student from the
+  <a href="https://langsci.wisc.edu">Language and Science Program at the University of Wisconsin-Madison</a>,
+  working with Professor
+  <a href="https://langsci.wisc.edu/staff/jacee-cho/">Jacee Cho</a>.
+I completed my B.A. in Linguistics with distinction at Purdue University in 2024. Having grown up as a Hakka heritage speaker in southeastern China, I can speak Mandarin Chinese, Hakka, and a little Cantonese.
+</p>
 
 
