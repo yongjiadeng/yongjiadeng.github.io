@@ -18,7 +18,7 @@ show_minimal: false             # remove all clutter
 # Menu                          # for available icons see https://fontawesome.com/v5/icons/
 
 navigation:                     # accepts {file, title, url, icon, sidebaricon}
-  - {file: "index2.md", title: "Home", icon: home}
+  - {file: "archive.html", title: "Home", icon: home}
   - {file: "/yongjiadeng.pdf", title: CV}
   - {title: Research, file: "Research.md"}
   - {title: Teaching, file: "Teaching.md"}
