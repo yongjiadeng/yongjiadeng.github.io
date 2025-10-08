@@ -27,7 +27,7 @@ navigation:                     # accepts {file, title, url, icon, sidebaricon}
 external:                       # accepts {file, title, url, icon, sidebaricon}
   - {title: Mail, icon: envelope, url: "mailto:ydeng228@wisc.edu"}
   - {title: Github, icon: github, url: "https://github.com/yongjiadeng"}
-  - {title: Twitter, icon: twitter, url: "https://twitter.com/yongjiadeng"}
+  - {title: Twitter, icon: twitter, url: "https://x.com/deng427"}
 
 comments:
 #  disqus_shortname: ""         # see https://disqus.com
