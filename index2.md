@@ -12,11 +12,17 @@ permalink: /
  <p>Hello! My name is Yongjia Deng (邓永嘉, she/her). </p>  
     
 <p>
-  I am a second-year PhD student from the
+  I am a third-year PhD student from the
   <a href="https://langsci.wisc.edu">Language and Science Program at the University of Wisconsin-Madison</a>,
   working with Professor
   <a href="https://langsci.wisc.edu/staff/jacee-cho/">Jacee Cho</a>.
 I completed my B.A. in Linguistics with distinction at Purdue University in 2024. Having grown up as a Hakka heritage speaker in southeastern China, I can speak Mandarin Chinese, Hakka, and a little Cantonese.
+
+<p>
+ <h2>News🥳 </h2>
 </p>
 
+<p>
+  *Sep, 2026*. The Scalarity of Deictic Motion: Investigating the Gradient Properties of _Come_ and _Go_. *Accepted at AMLaP 2026*.
+</p>
 
