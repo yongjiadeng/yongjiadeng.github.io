@@ -23,6 +23,6 @@ I completed my B.A. in Linguistics with distinction at Purdue University in 2024
 </p>
 
 <p>
-  *Sep, 2026*. The Scalarity of Deictic Motion: Investigating the Gradient Properties of _Come_ and _Go_. *Accepted at AMLaP 2026*.
+  <strong>Sep, 2026</strong>. The Scalarity of Deictic Motion: Investigating the Gradient Properties of <em>Come</em> and <em>Go</em>. <em>Accepted at AMLaP 2026</em>.
 </p>
 
